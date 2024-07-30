@@ -4,3 +4,5 @@ url2='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0
 outpath='/Users/khtam/Downloads'
 wget.download(url1,outpath)
 wget.download(url2,outpath)
+
+
